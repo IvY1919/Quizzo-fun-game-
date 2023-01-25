@@ -1,0 +1,43 @@
+h1
+{
+	font-family:"Comic Sans MS";
+	font-size:60px;
+	text-align:center;
+	color:#fdb756;
+}
+
+.label{font-family:"Comic Sans MS";
+	       color:#ffffff;
+           font-size:25px;}
+body{
+	width:100%;
+}
+
+.pym{width:70%;
+     margin:0 auto;}
+
+li.home{display: inline;
+    padding: 0.5em;
+    text-align: center;}
+#feature{
+	border-radius:10px;
+	height:5em;
+	margin-bottom: 1em;
+	background-color:relative;
+	text-align: center;
+}
+#header{text-align: center;}
+#nav{
+	background-color: #efefef;
+	padding: 0.5em 0;
+	text-align: center;}
+	span.No{ font-size: 0.9em;
+		     font-family: "Comic Sans MS";
+	         color:#fdc67a;}
+li.question,li.answer-radio{display: inline;}
+h3{ font-family: "Comic Sans MS";
+      color:#fdc67a;
+      font-size: 30px;}
+      
+h3 p{color:#C7254E;}
+                     
