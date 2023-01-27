@@ -101,7 +101,7 @@ body{
     text-align:center;
     padding:5px;
 }
-.question-inner{
+.question-inner, .questions{
   border-radius: 30px;
   padding: 1px 25px;
   margin: 15px;

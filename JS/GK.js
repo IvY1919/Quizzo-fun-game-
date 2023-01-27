@@ -1,3 +1,6 @@
+
+
+
 function buttonClick()
            	{
            		var total=0;
@@ -156,6 +159,7 @@ function buttonClick()
            		}  	
            		
            			alert(result);
+					//document.getElementById("demo").innerHTML=result;
            	}
            	
 
@@ -164,7 +168,7 @@ function buttonClick()
 {
 	var errors=[];
 	if(!checkRadioArray(f1.q_0_a)){
-		errors[errors.length]="You left NO.1 questions!";
+		errors[errors.length]="You left NO.1 question!";
 		//alert(errors.length);
 	}
 	
@@ -226,3 +230,5 @@ return true;
 }
 return false;
 }
+
+
